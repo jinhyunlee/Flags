@@ -19,8 +19,13 @@ hello
 >>>>>>> test
 =======
 hello
-8:13PM
-8:21PM 
+
+Inspiration: Wanted to use Oculus and Myo technologies  
+Target users: anyone  
+Key Features:
+  - Use Myo to play Oculus games
+  - Use Myo as a trackpad/keyboard for general usage
+  - Myo functionality changes with application
 >>>>>>> test
 
 
