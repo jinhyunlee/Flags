@@ -30,11 +30,11 @@ hello
 
 
 
-
-
-  - asdf
-
-
+Target users: anyone  
+Key Features:
+  - Use Myo to play Oculus games
+  - Use Myo as a trackpad/keyboard for general usage
+  - Myo functionality changes with application
 
 
 
